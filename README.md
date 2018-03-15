@@ -59,9 +59,9 @@ What is so good about my app
 ```
 
 # UI Mockups
-1. Add a new product
-![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/one.png)
-![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/two.png)
+    ![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/one.png)
+    
+    ![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/two.png)
 
 
 ## API Docs
