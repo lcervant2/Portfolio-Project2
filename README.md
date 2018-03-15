@@ -59,9 +59,9 @@ What is so good about my app
 ```
 
 # UI Mockups
-    ![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/one.png)
-    
-    ![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/two.png)
+1. ![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/one.png)
+
+2. ![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/two.png)
 
 
 ## API Docs
