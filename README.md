@@ -21,11 +21,48 @@ What is so good about my app
 * Handlebars for Server Site Templating
 
 
-## Architecture Diagram
-Cool architecture picture goes here...
+## Architecture Diagram (it's just an example )
+```
+.
+├── config
+│   ├── connection.js
+│   └── orm.js
+│ 
+├── controllers
+│   └── portfolio_controller.js
+│
+├── db
+│   ├── schema.sql
+│   └── seeds.sql
+│
+├── models
+│   └── portfolio.js
+│ 
+├── node_modules
+│ 
+├── package.json
+│
+├── public
+│   ├── assets
+│   │   ├── css
+│   │   │   └── portfolio_style.css
+│   │   └── img
+│   │       └── portfolio.png
+│   └── test.html
+│
+├── server.js
+│
+└── views
+    ├── index.handlebars
+    └── layouts
+        └── main.handlebars
+```
 
 # UI Mockups
-Mockup pictures go here...
+1. Add a new product
+![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/one.png)
+![alt text](https://github.com/lcervant2/Portfolio-Project2/blob/master/img/two.png)
+
 
 ## API Docs
 Description of API and routes goes here...
