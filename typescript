@@ -1,0 +1,450 @@
+Script started on Sat Mar 17 20:18:30 2018
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/website1 copy]1;..website1 copy[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/website1 copy [49m[34m[39m [K[?1h=[?2004hg ppwd[?1l>[?2004l
+]2;pwd]1;pwd/Users/lcervantes/Desktop/website1 copy
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/website1 copy]1;..website1 copy[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/website1 copy [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/website1 copy]1;..website1 copy[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/website1 copy [49m[34m[39m [K[?1h=[?2004hsscripts[?1l>[?2004l
+]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/website1 copy/scripts]1;.. copy/scripts[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/website1 copy/scripts [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/website1 copy/scripts]1;.. copy/scripts[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/website1 copy/scripts [49m[34m[39m [K[?1h=[?2004httouch logic.js[?1l>[?2004l
+]2;touch logic.js]1;touch[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/website1 copy/scripts]1;.. copy/scripts[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/website1 copy/scripts [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lslogic.js
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/website1 copy/scripts]1;.. copy/scripts[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/website1 copy/scripts [49m[34m[39m [K[?1h=[?2004hccrea  c  cclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/website1 copy/scripts]1;.. copy/scripts[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/website1 copy/scripts [49m[34m[39m [K[?1h=[?2004h[7m/Users/lcervantes/Desktop/Portfolio-Project2[27m[44D[27m/[27mU[27ms[27me[27mr[27ms[27m/[27ml[27mc[27me[27mr[27mv[27ma[27mn[27mt[27me[27ms[27m/[27mD[27me[27ms[27mk[27mt[27mo[27mp[27m/[27mP[27mo[27mr[27mt[27mf[27mo[27ml[27mi[27mo[27m-[27mP[27mr[27mo[27mj[27me[27mc[27mt[27m2[7m [27m[27m [?1l>[?2004l
+]2;/Users/lcervantes/Desktop/Portfolio-Project2]1;/Users/lcervantes/Desktop/Portfolio-Project2[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hm mmkidir config[?1l>[?2004l
+]2;mkidir config]1;mkidirzsh: command not found: mkidir
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hmmkdir config[?1l>[?2004l
+]2;mkdir config]1;mkdir[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[36mconfig[39;49m[0m      [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hiintall connection .js[?1l>[?2004l
+]2;intall connection.js]1;intallzsh: command not found: intall
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[36mconfig[39;49m[0m      [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hiintall connection.js[?1l>[?2004l
+]2;intall connection.js]1;intallzsh: command not found: intall
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[36mconfig[39;49m[0m      [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/Desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hiintall    i  ccd config[?1l>[?2004l
+]2;cd config]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hmmkidir connection.js[?1l>[?2004l
+]2;mkidir connection.js]1;mkidirzsh: command not found: mkidir
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m ✝ [44m[30m[30m Desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hmmkdir connection.js[?1l>[?2004l
+]2;mkdir connection.js]1;mkdir[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mconnection.js[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mconnection.js[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mconnection.js[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/Desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m Desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hccd [?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36m10-16-2017-GW-Arlington-Class-Repository-FSF-FT[39;49m[0m
+[1m[36mAPPS1[39;49m[0m
+[1m[36mApplications[39;49m[0m
+[1m[36mDesktop[39;49m[0m
+[1m[36mDocuments[39;49m[0m
+[1m[36mDownloads[39;49m[0m
+[1m[36mFolder1[39;49m[0m
+[1m[36mHomework2[39;49m[0m
+[30m[43mKOMAE Academy copy[39;49m[0m
+[1m[36mLibrary[39;49m[0m
+[1m[36mMacKeeper Backups[39;49m[0m
+[1m[36mMaster[39;49m[0m
+[1m[36mMovies[39;49m[0m
+[1m[36mMusic[39;49m[0m
+[1m[36mPictures[39;49m[0m
+[1m[36mPublic[39;49m[0m
+Siracha.js
+[1m[36mSites[39;49m[0m
+[1m[36mapps[39;49m[0m
+[1m[36mapps-pt[39;49m[0m
+band.js
+calculator.js
+calculator1.js
+[1m[36mdrafts[39;49m[0m
+[1m[36mfonts[39;49m[0m
+global
+[1m[36mhang-man[39;49m[0m
+hello.js
+[1m[36mluis-practice[39;49m[0m
+[1m[36mmonkey[39;49m[0m
+[1m[36mmorning[39;49m[0m
+[1m[36mpractica[39;49m[0m
+[1m[36mpractica1[39;49m[0m
+run.js
+show
+[1m[36mtest[39;49m[0m
+[1m[36mtest_directory_and_more_words[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hccd desktip  op[?1l>[?2004l
+]2;cd desktop]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[30m[43m10-16-GWclass[39;49m[0m
+[1m[36m15-sequelize copy[39;49m[0m
+[1m[36m16-testing copy[39;49m[0m
+[1m[36mAgust[39;49m[0m
+David Kanwisher | Tutors & Students Slack.webloc
+[1m[36mGWAR201710FSF5-Class-Repository-FSF[39;49m[0m
+Google Docs.webloc
+JawsDB.pdf
+[1m[36mPATRICKOUT[39;49m[0m
+[1m[36mPRO[39;49m[0m
+[1m[36mPULLOUT[39;49m[0m
+[30m[43mPortfolio-Project2[39;49m[0m
+[30m[43mRudy taxes 17[39;49m[0m
+Segment descriptions.docx
+[1m[36mWORD[39;49m[0m
+[1m[36ma14823[39;49m[0m
+a14823.zip
+[1m[36meat-da-burger[39;49m[0m
+eat-da-burger.zip
+[1m[36mpullout1[39;49m[0m
+saturday-class | GW Nov 2017 Coding PT Slack.webloc
+startbootstrap-freelancer-gh-pages.zip
+[1m[36muntitled folder[39;49m[0m
+[1m[36muntitled folder 2[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hPPortfolio-Project2[?1l>[?2004l
+]2;Portfolio-Project2]1;Portfolio-Project2[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[36mconfig[39;49m[0m      [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hmmkdir controllers[?1l>[?2004l
+]2;mkdir controllers]1;mkdir[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [1m[36mcontrollers[39;49m[0m [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[36mconfig[39;49m[0m      [30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [1m[36mcontrollers[39;49m[0m [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[36mconfig[39;49m[0m      [30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hccd controllers[?1l>[?2004l
+]2;cd controllers]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/controllers]1;..2/controllers[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/controllers [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/controllers]1;..2/controllers[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/controllers [49m[34m[39m [K[?1h=[?2004httouch Portfolio-Project2.js[?1l>[?2004l
+]2;touch Portfolio-Project2.js]1;touch[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/controllers]1;..2/controllers[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/controllers [49m[34m[39m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/controllers]1;..2/controllers[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/controllers [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsPortfolio-Project2.js
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/controllers]1;..2/controllers[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/controllers [49m[34m[39m [K[?1h=[?2004hccd config[?1l>[?2004l
+]2;cd config]1;cdcd: no such file or directory: config
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/controllers]1;..2/controllers[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/controllers [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsPortfolio-Project2.js
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/controllers]1;..2/controllers[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/controllers [49m[34m[39m [K[?1h=[?2004hccd[?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36m10-16-2017-GW-Arlington-Class-Repository-FSF-FT[39;49m[0m
+[1m[36mAPPS1[39;49m[0m
+[1m[36mApplications[39;49m[0m
+[1m[36mDesktop[39;49m[0m
+[1m[36mDocuments[39;49m[0m
+[1m[36mDownloads[39;49m[0m
+[1m[36mFolder1[39;49m[0m
+[1m[36mHomework2[39;49m[0m
+[30m[43mKOMAE Academy copy[39;49m[0m
+[1m[36mLibrary[39;49m[0m
+[1m[36mMacKeeper Backups[39;49m[0m
+[1m[36mMaster[39;49m[0m
+[1m[36mMovies[39;49m[0m
+[1m[36mMusic[39;49m[0m
+[1m[36mPictures[39;49m[0m
+[1m[36mPublic[39;49m[0m
+Siracha.js
+[1m[36mSites[39;49m[0m
+[1m[36mapps[39;49m[0m
+[1m[36mapps-pt[39;49m[0m
+band.js
+calculator.js
+calculator1.js
+[1m[36mdrafts[39;49m[0m
+[1m[36mfonts[39;49m[0m
+global
+[1m[36mhang-man[39;49m[0m
+hello.js
+[1m[36mluis-practice[39;49m[0m
+[1m[36mmonkey[39;49m[0m
+[1m[36mmorning[39;49m[0m
+[1m[36mpractica[39;49m[0m
+[1m[36mpractica1[39;49m[0m
+run.js
+show
+[1m[36mtest[39;49m[0m
+[1m[36mtest_directory_and_more_words[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hccd desktop[?1l>[?2004l
+]2;cd desktop]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[30m[43m10-16-GWclass[39;49m[0m
+[1m[36m15-sequelize copy[39;49m[0m
+[1m[36m16-testing copy[39;49m[0m
+[1m[36mAgust[39;49m[0m
+David Kanwisher | Tutors & Students Slack.webloc
+[1m[36mGWAR201710FSF5-Class-Repository-FSF[39;49m[0m
+Google Docs.webloc
+JawsDB.pdf
+[1m[36mPATRICKOUT[39;49m[0m
+[1m[36mPRO[39;49m[0m
+[1m[36mPULLOUT[39;49m[0m
+[30m[43mPortfolio-Project2[39;49m[0m
+[30m[43mRudy taxes 17[39;49m[0m
+Segment descriptions.docx
+[1m[36mWORD[39;49m[0m
+[1m[36ma14823[39;49m[0m
+a14823.zip
+[1m[36meat-da-burger[39;49m[0m
+eat-da-burger.zip
+[1m[36mpullout1[39;49m[0m
+saturday-class | GW Nov 2017 Coding PT Slack.webloc
+startbootstrap-freelancer-gh-pages.zip
+[1m[36muntitled folder[39;49m[0m
+[1m[36muntitled folder 2[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hccd Portfolio-Project2[?1l>[?2004l
+]2;cd Portfolio-Project2]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [1m[36mcontrollers[39;49m[0m [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[36mconfig[39;49m[0m      [30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hccd config[?1l>[?2004l
+]2;cd config]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004httouch connection.js[?1l>[?2004l
+]2;touch connection.js]1;touch[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/config]1;..oject2/config[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/config [49m[34m[39m [K[?1h=[?2004hccd[?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36m10-16-2017-GW-Arlington-Class-Repository-FSF-FT[39;49m[0m
+[1m[36mAPPS1[39;49m[0m
+[1m[36mApplications[39;49m[0m
+[1m[36mDesktop[39;49m[0m
+[1m[36mDocuments[39;49m[0m
+[1m[36mDownloads[39;49m[0m
+[1m[36mFolder1[39;49m[0m
+[1m[36mHomework2[39;49m[0m
+[30m[43mKOMAE Academy copy[39;49m[0m
+[1m[36mLibrary[39;49m[0m
+[1m[36mMacKeeper Backups[39;49m[0m
+[1m[36mMaster[39;49m[0m
+[1m[36mMovies[39;49m[0m
+[1m[36mMusic[39;49m[0m
+[1m[36mPictures[39;49m[0m
+[1m[36mPublic[39;49m[0m
+Siracha.js
+[1m[36mSites[39;49m[0m
+[1m[36mapps[39;49m[0m
+[1m[36mapps-pt[39;49m[0m
+band.js
+calculator.js
+calculator1.js
+[1m[36mdrafts[39;49m[0m
+[1m[36mfonts[39;49m[0m
+global
+[1m[36mhang-man[39;49m[0m
+hello.js
+[1m[36mluis-practice[39;49m[0m
+[1m[36mmonkey[39;49m[0m
+[1m[36mmorning[39;49m[0m
+[1m[36mpractica[39;49m[0m
+[1m[36mpractica1[39;49m[0m
+run.js
+show
+[1m[36mtest[39;49m[0m
+[1m[36mtest_directory_and_more_words[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hccd desktop[?1l>[?2004l
+]2;cd desktop]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[30m[43m10-16-GWclass[39;49m[0m
+[1m[36m15-sequelize copy[39;49m[0m
+[1m[36m16-testing copy[39;49m[0m
+[1m[36mAgust[39;49m[0m
+David Kanwisher | Tutors & Students Slack.webloc
+[1m[36mGWAR201710FSF5-Class-Repository-FSF[39;49m[0m
+Google Docs.webloc
+JawsDB.pdf
+[1m[36mPATRICKOUT[39;49m[0m
+[1m[36mPRO[39;49m[0m
+[1m[36mPULLOUT[39;49m[0m
+[30m[43mPortfolio-Project2[39;49m[0m
+[30m[43mRudy taxes 17[39;49m[0m
+Segment descriptions.docx
+[1m[36mWORD[39;49m[0m
+[1m[36ma14823[39;49m[0m
+a14823.zip
+[1m[36meat-da-burger[39;49m[0m
+eat-da-burger.zip
+[1m[36mpullout1[39;49m[0m
+saturday-class | GW Nov 2017 Coding PT Slack.webloc
+startbootstrap-freelancer-gh-pages.zip
+[1m[36muntitled folder[39;49m[0m
+[1m[36muntitled folder 2[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hccd Portfolio-Project2[?1l>[?2004l
+]2;cd Portfolio-Project2]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [1m[36mcontrollers[39;49m[0m [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[36mconfig[39;49m[0m      [30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hmmkdir db[?1l>[?2004l
+]2;mkdir db]1;mkdir[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [1m[36mcontrollers[39;49m[0m [1m[36mdb[39;49m[0m          [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[36mconfig[39;49m[0m      [30m[43mcss[39;49m[0m         [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hccd db[?1l>[?2004l
+]2;cd db]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/db]1;..o-Project2/db[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/db [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/db]1;..o-Project2/db[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/db [49m[34m[39m [K[?1h=[?2004httouch schema.squl  l[?1l>[?2004l
+]2;touch schema.sql]1;touch[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/db]1;..o-Project2/db[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/db [49m[34m[39m [K[?1h=[?2004httouch seeds.sql[?1l>[?2004l
+]2;touch seeds.sql]1;touch[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/db]1;..o-Project2/db[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/db [49m[34m[39m [K[?1h=[?2004httouch proje        t  ccd[?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36m10-16-2017-GW-Arlington-Class-Repository-FSF-FT[39;49m[0m
+[1m[36mAPPS1[39;49m[0m
+[1m[36mApplications[39;49m[0m
+[1m[36mDesktop[39;49m[0m
+[1m[36mDocuments[39;49m[0m
+[1m[36mDownloads[39;49m[0m
+[1m[36mFolder1[39;49m[0m
+[1m[36mHomework2[39;49m[0m
+[30m[43mKOMAE Academy copy[39;49m[0m
+[1m[36mLibrary[39;49m[0m
+[1m[36mMacKeeper Backups[39;49m[0m
+[1m[36mMaster[39;49m[0m
+[1m[36mMovies[39;49m[0m
+[1m[36mMusic[39;49m[0m
+[1m[36mPictures[39;49m[0m
+[1m[36mPublic[39;49m[0m
+Siracha.js
+[1m[36mSites[39;49m[0m
+[1m[36mapps[39;49m[0m
+[1m[36mapps-pt[39;49m[0m
+band.js
+calculator.js
+calculator1.js
+[1m[36mdrafts[39;49m[0m
+[1m[36mfonts[39;49m[0m
+global
+[1m[36mhang-man[39;49m[0m
+hello.js
+[1m[36mluis-practice[39;49m[0m
+[1m[36mmonkey[39;49m[0m
+[1m[36mmorning[39;49m[0m
+[1m[36mpractica[39;49m[0m
+[1m[36mpractica1[39;49m[0m
+run.js
+show
+[1m[36mtest[39;49m[0m
+[1m[36mtest_directory_and_more_words[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hccd desktop[?1l>[?2004l
+]2;cd desktop]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[30m[43m10-16-GWclass[39;49m[0m
+[1m[36m15-sequelize copy[39;49m[0m
+[1m[36m16-testing copy[39;49m[0m
+[1m[36mAgust[39;49m[0m
+David Kanwisher | Tutors & Students Slack.webloc
+[1m[36mGWAR201710FSF5-Class-Repository-FSF[39;49m[0m
+Google Docs.webloc
+JawsDB.pdf
+[1m[36mPATRICKOUT[39;49m[0m
+[1m[36mPRO[39;49m[0m
+[1m[36mPULLOUT[39;49m[0m
+[30m[43mPortfolio-Project2[39;49m[0m
+[30m[43mRudy taxes 17[39;49m[0m
+Segment descriptions.docx
+[1m[36mWORD[39;49m[0m
+[1m[36ma14823[39;49m[0m
+a14823.zip
+[1m[36meat-da-burger[39;49m[0m
+eat-da-burger.zip
+[1m[36mpullout1[39;49m[0m
+saturday-class | GW Nov 2017 Coding PT Slack.webloc
+startbootstrap-freelancer-gh-pages.zip
+[1m[36muntitled folder[39;49m[0m
+[1m[36muntitled folder 2[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hccd Portfolio-Project2[?1l>[?2004l
+]2;cd Portfolio-Project2]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [1m[36mcontrollers[39;49m[0m [1m[36mdb[39;49m[0m          [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[36mconfig[39;49m[0m      [30m[43mcss[39;49m[0m         [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [1m[36mscripts[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hmmkdir models[?1l>[?2004l
+]2;mkdir models]1;mkdir[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [1m[36mcontrollers[39;49m[0m [1m[36mdb[39;49m[0m          [31mindex.html[39;49m[0m  [1m[36mmodels[39;49m[0m      [1m[36mscripts[39;49m[0m
+[1m[36mconfig[39;49m[0m      [30m[43mcss[39;49m[0m         [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [31mpalette.png[39;49m[0m typescript
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hccd models[?1l>[?2004l
+]2;cd models]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/models]1;..oject2/models[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/models [49m[34m[39m [K[?1h=[?2004httouch Project        Portfolio-Projecct  t2.js[?1l>[?2004l
+]2;touch Portfolio-Project2.js]1;touch[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/models]1;..oject2/models[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/models [49m[34m[39m [K[?1h=[?2004hccd[?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36m10-16-2017-GW-Arlington-Class-Repository-FSF-FT[39;49m[0m
+[1m[36mAPPS1[39;49m[0m
+[1m[36mApplications[39;49m[0m
+[1m[36mDesktop[39;49m[0m
+[1m[36mDocuments[39;49m[0m
+[1m[36mDownloads[39;49m[0m
+[1m[36mFolder1[39;49m[0m
+[1m[36mHomework2[39;49m[0m
+[30m[43mKOMAE Academy copy[39;49m[0m
+[1m[36mLibrary[39;49m[0m
+[1m[36mMacKeeper Backups[39;49m[0m
+[1m[36mMaster[39;49m[0m
+[1m[36mMovies[39;49m[0m
+[1m[36mMusic[39;49m[0m
+[1m[36mPictures[39;49m[0m
+[1m[36mPublic[39;49m[0m
+Siracha.js
+[1m[36mSites[39;49m[0m
+[1m[36mapps[39;49m[0m
+[1m[36mapps-pt[39;49m[0m
+band.js
+calculator.js
+calculator1.js
+[1m[36mdrafts[39;49m[0m
+[1m[36mfonts[39;49m[0m
+global
+[1m[36mhang-man[39;49m[0m
+hello.js
+[1m[36mluis-practice[39;49m[0m
+[1m[36mmonkey[39;49m[0m
+[1m[36mmorning[39;49m[0m
+[1m[36mpractica[39;49m[0m
+[1m[36mpractica1[39;49m[0m
+run.js
+show
+[1m[36mtest[39;49m[0m
+[1m[36mtest_directory_and_more_words[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hccd desktop[?1l>[?2004l
+]2;cd desktop]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[30m[43m10-16-GWclass[39;49m[0m
+[1m[36m15-sequelize copy[39;49m[0m
+[1m[36m16-testing copy[39;49m[0m
+[1m[36mAgust[39;49m[0m
+David Kanwisher | Tutors & Students Slack.webloc
+[1m[36mGWAR201710FSF5-Class-Repository-FSF[39;49m[0m
+Google Docs.webloc
+JawsDB.pdf
+[1m[36mPATRICKOUT[39;49m[0m
+[1m[36mPRO[39;49m[0m
+[1m[36mPULLOUT[39;49m[0m
+[30m[43mPortfolio-Project2[39;49m[0m
+[30m[43mRudy taxes 17[39;49m[0m
+Segment descriptions.docx
+[1m[36mWORD[39;49m[0m
+[1m[36ma14823[39;49m[0m
+a14823.zip
+[1m[36meat-da-burger[39;49m[0m
+eat-da-burger.zip
+[1m[36mpullout1[39;49m[0m
+saturday-class | GW Nov 2017 Coding PT Slack.webloc
+startbootstrap-freelancer-gh-pages.zip
+[1m[36muntitled folder[39;49m[0m
+[1m[36muntitled folder 2[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop]1;~/desktop[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop [49m[34m[39m [K[?1h=[?2004hccd Porto folio-Project2[?1l>[?2004l
+]2;cd Portfolio-Project2]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [1m[36mcontrollers[39;49m[0m [1m[36mdb[39;49m[0m          [31mindex.html[39;49m[0m  [1m[36mmodels[39;49m[0m      [1m[36mscripts[39;49m[0m
+[1m[36mconfig[39;49m[0m      [30m[43mcss[39;49m[0m         [30m[43mimg[39;49m[0m         [1m[36mjs [39;49m[0m         [31mpalette.png[39;49m[0m typescript
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hPPublic    P  mmkd  dir public[?1l>[?2004l
+]2;mkdir public]1;mkdir[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md   [30m[43mcss[39;49m[0m         [31mindex.html[39;49m[0m  [31mpalette.png[39;49m[0m typescript
+[1m[36mconfig[39;49m[0m      [1m[36mdb[39;49m[0m          [1m[36mjs [39;49m[0m         [1m[36mpublic[39;49m[0m
+[1m[36mcontrollers[39;49m[0m [30m[43mimg[39;49m[0m         [1m[36mmodels[39;49m[0m      [1m[36mscripts[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2]1;..olio-Project2[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~/desktop/Portfolio-Project2 [49m[34m[39m [K[?1h=[?2004hccd public[?1l>[?2004l
+]2;cd public]1;cd[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004httouch assets[?1l>[?2004l
+]2;touch assets]1;touch[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004httouch test.html[?1l>[?2004l
+]2;touch test.html]1;touch[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsassets    test.html
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004hccd p Portfolio-Projed ct2[?1l>[?2004l
+]2;cd Portfolio-Project2]1;cdcd: no such file or directory: Portfolio-Project2
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004hcclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsassets    test.html
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004hccd p Port    c  ppwd[?1l>[?2004l
+]2;pwd]1;pwd/Users/lcervantes/desktop/Portfolio-Project2/public
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsassets    test.html
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004hccd Portfolio-Proe ject2[?1l>[?2004l
+]2;cd Portfolio-Project2]1;cdcd: no such file or directory: Portfolio-Project2
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004hccear  c  cclear[?1l>[?2004l
+]2;clear]1;clear[H[2J[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004hccd desktop[?1l>[?2004l
+]2;cd desktop]1;cdcd: no such file or directory: desktop
+[1m[7m%[27m[1m[0m                                                                                   ]2;lcervantes@luis: ~/desktop/Portfolio-Project2/public]1;..oject2/public[0m[27m[24m[J[39m[0m[49m[40m[39m [31m✘[40m[39m ✝ [44m[30m[30m desktop/Portfolio-Project2/public [49m[34m[39m [K[?1h=[?2004h
