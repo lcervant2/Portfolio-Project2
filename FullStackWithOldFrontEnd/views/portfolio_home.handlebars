@@ -1,0 +1,11 @@
+<h1> test this is my homepage!<h1>
+
+{{#if projects}}
+    {{#each projects}}
+        <h1>{{title}}</h1>
+        <h3>{{description}}</h3>
+        <img src={{imageURL}}/>
+    {{/each}}
+{{else}}
+    <h2>You DON'T have projects!</h2>
+{{/if}} 
